@@ -17,7 +17,7 @@ Returns
 - int: the sum of  and 
 
 Constraints
-
+1 <= a, b <= 1000
 
 Sample Input
 
