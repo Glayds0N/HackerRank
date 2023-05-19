@@ -11,7 +11,7 @@ for(let i=0; i <= n; i++){
 
 
 // My code!
-function SimpleArraySum(ar){
+function simpleArraySum(ar){
     let sum1 = 0;
     let sum2 = 0;
 
@@ -26,7 +26,7 @@ function SimpleArraySum(ar){
         sum2 += ar[i];
     }
 
-    return sum1
+    return `The result of first solution is ${sum1} and the second solution is ${sum2}`
 }
 
-console.log(SimpleArraySum(ar))
+console.log(simpleArraySum(ar))
