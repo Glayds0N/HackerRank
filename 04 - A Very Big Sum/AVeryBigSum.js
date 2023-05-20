@@ -6,6 +6,7 @@ const ar = [];
 for (let index = 0; index < n; index++) {
     const i = Math.floor(Math.random()*(10**10) + 1);
     ar.push(i);
+    
 }
 
 
